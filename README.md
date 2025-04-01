@@ -21,7 +21,7 @@ This project simulates an Automated Teller Machine (ATM) that manages user bank 
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>](https://github.com/Avikambir10/ATM_machine.git
+   git clone https://github.com/Avikambir10/ATM_machine.git
    ```
 2. **Ensure Required Files Are in One Directory**
    - `ATM.java`
